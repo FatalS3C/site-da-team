@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: teamroot.tk
+Token: 3a7217a68a0d1c6c39746209df6f9da34b10035397219b7b1ff79380ac0fc81a
