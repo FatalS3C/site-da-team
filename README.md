@@ -8,7 +8,8 @@
 
 - Chat - 05/04/2021
 - Radio(dentro da pag. chat) - 05/04/2021
-- Ownadas - 07/04/2021
+- Entrar na root - 
+- Ownadas - 10/04/2021
 - Ferramentas - 14/04/2021
 
 By: Azz4 Defalt
