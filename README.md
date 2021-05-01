@@ -6,10 +6,11 @@
 
 ### Criaçao das paginas no site
 
-- Chat - 05/04/2021
-- Radio(dentro da pag. chat) - 05/04/2021
-- Entrar na root - 
-- Ownadas - 10/04/2021
-- Ferramentas - 14/04/2021
+- Chat - 07/04/2021
+- Radio(dentro da pag. chat) - 07/04/2021
+- Ownadas - 07/04/2021
+- Sobre nos - 07/04/2021
+- Entrar na root - 09/04/2021
+- Ferramentas - 22/04/2021
 
 By: Azz4 Defalt
